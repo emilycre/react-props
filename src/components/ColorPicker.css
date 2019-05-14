@@ -6,16 +6,16 @@
     cursor: pointer;
   }
 
-  .red {
-    background-color: red;
+  .salmon {
+    background-color: salmon;
   }
 
-  .yellow {
-    background-color: yellow;
+  .gold {
+    background-color: gold;
   }
 
   .blue {
-    background-color: blue;
+    background-color: cadetblue;
     color: white;
   }
 }
