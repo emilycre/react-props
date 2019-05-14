@@ -8,4 +8,4 @@ describe('ColorPicker Component', () => {
     const wrapper = shallow(<ColorPicker />);
     expect(wrapper).toMatchSnapshot();
   });
-})
+});
